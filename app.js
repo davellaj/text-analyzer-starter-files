@@ -1,1 +1,3 @@
-// your code here!
+$(document).ready(function(){
+    $('body').css('background', 'red')
+});
